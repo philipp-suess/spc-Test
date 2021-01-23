@@ -85,7 +85,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.google.de\/"
+                 "value":"https:\/\/brpimc.ddns.net:3333\/"
                 }],
          "type":"tilelayer",
          "visible":true,
