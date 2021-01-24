@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Lyon\/lyon.json"
+                 "value":"https:\/\/bene7692.github.io\/spc-map\/map.json#start_stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
