@@ -223,7 +223,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/github.com\/Bene7692\/spc-map\/blob\/master\/map.json"
+                 "value":"https:\/\/bene7692.github.io\/spc-map\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
