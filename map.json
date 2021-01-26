@@ -241,7 +241,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/philipp-suess\/world\/blob\/master\/ifame.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/ifame.html"
                 }],
          "type":"tilelayer",
          "visible":true,
