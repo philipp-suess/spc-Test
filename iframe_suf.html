@@ -21,6 +21,15 @@ body {
 </style>
     </head>
     <body>
-      <iframe src="https://www.suess-friends.com/blog" name="iframe" id="iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="100" width="100%">
-  </iframe>
+      <script>
+function setIframeHeight() {
+  var iFrameID = document.getElementById('iframe');
+  if(iFrameID) {
+    iFrameID.height = "";
+    iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
+  }
+}
+</script>
+<iframe src="https://www.suess-friends.com/blog" name="iframe" id="iframe" scrolling="auto" frameborder="0" marginheight="0px" marginwidth="0px" height="800" width="100%" onload="setIframeHeight();">
+</iframe>
 </html>
