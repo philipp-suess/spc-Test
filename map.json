@@ -259,7 +259,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/philipp-suess\/world\/blob\/master\/fenster1.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/fenster1.html"
                 }],
          "type":"tilelayer",
          "visible":true,
