@@ -535,7 +535,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/Tagungsprogram.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/Tagungsprogramm.html"
                 }],
          "type":"tilelayer",
          "visible":true,
