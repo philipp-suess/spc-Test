@@ -355,7 +355,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/f.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/testfenster.html"
                 }],
          "type":"tilelayer",
          "visible":true,
