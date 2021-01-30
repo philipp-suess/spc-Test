@@ -54,6 +54,10 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
   padding-bottom: 20px;
 }
 
+.gallerie{  position: relative;
+background-color:white!important
+}
+
 .logo{
   padding-top: 20px;
   padding-right: 50px;
