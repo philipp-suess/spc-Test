@@ -481,7 +481,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/projekt_projekt_Druckschalter.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/projekt_Druckschalter.html"
                 }],
          "type":"tilelayer",
          "visible":true,
