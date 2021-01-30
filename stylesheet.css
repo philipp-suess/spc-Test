@@ -20,6 +20,9 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
   width: 100%;
   margin: 0px;
   padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
   box-sizing: border-box;
   text-align: center;
   vertical-align: middle;}
