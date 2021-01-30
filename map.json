@@ -1150,6 +1150,18 @@
          "y":0
         }, 
         {
+         "id":88,
+         "image":"LogoZ_White.png",
+         "name":"LOGO",
+         "offsetx":-15.1515151515152,
+         "offsety":1263.63636363636,
+         "opacity":1,
+         "type":"imagelayer",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
@@ -1172,7 +1184,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":88,
+ "nextlayerid":89,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
