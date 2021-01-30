@@ -27,7 +27,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
   vertical-align: middle;}
 
 .textbox{
-  font-size:20px;
+  font-size:16px;
   color:white;
   width: 100%;
   text-align: left;
@@ -35,6 +35,11 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
   padding-bottom: 20px;
 }
 
+.logo{
+  padding-top: 20px;
+  padding-right: 50px;
+  width=200px;
+}
 .link{
   color:#AAC3DC
 }
