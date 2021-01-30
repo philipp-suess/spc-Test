@@ -6,7 +6,7 @@ h3{font-size:24px}
 h4{font-size:20px}
 h5{font-size:18px}
 h6{font-size:16px}
-p{font-size:16px;color:white}
+p{font-size:16px;color:white;}
 
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
@@ -26,6 +26,10 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
   box-sizing: border-box;
   text-align: center;
   vertical-align: middle;}
+
+.link{
+  color:#AAC3DC
+}
 
 /* Colors */
 .saf-amber,.saf-hover-amber:hover{color:#000!important;background-color:#ffc107!important}
