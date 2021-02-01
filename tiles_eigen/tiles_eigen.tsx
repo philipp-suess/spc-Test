@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.4" tiledversion="1.4.3" name="eigen" tilewidth="32" tileheight="64" tilecount="11" columns="0">
+<tileset version="1.4" tiledversion="1.4.3" name="eigen" tilewidth="32" tileheight="64" tilecount="13" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="0">
   <image width="32" height="32" source="green.png"/>
@@ -33,5 +33,11 @@
  </tile>
  <tile id="10">
   <image width="32" height="64" source="Vitrine.png"/>
+ </tile>
+ <tile id="11">
+  <image width="32" height="32" source="dogtag_gelb.png"/>
+ </tile>
+ <tile id="12">
+  <image width="32" height="32" source="dogtag_grau.png"/>
  </tile>
 </tileset>
