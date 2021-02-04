@@ -71,6 +71,10 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
   color:#AAC3DC
 }
 
+.hashtag{
+    color:#AAC3DC
+}
+
 /* Colors */
 .saf-amber,.saf-hover-amber:hover{color:#000!important;background-color:#ffc107!important}
 .saf-aqua,.saf-hover-aqua:hover{color:#000!important;background-color:#00ffff!important}
