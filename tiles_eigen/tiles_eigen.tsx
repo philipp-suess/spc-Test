@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.4" tiledversion="1.4.3" name="eigen" tilewidth="128" tileheight="64" tilecount="15" columns="0">
+<tileset version="1.4" tiledversion="1.4.3" name="eigen" tilewidth="128" tileheight="64" tilecount="17" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="0">
   <image width="32" height="32" source="green.png"/>
@@ -48,5 +48,11 @@
    <property name="invisible" type="bool" value="true"/>
   </properties>
   <image width="32" height="32" source="Marker.png"/>
+ </tile>
+ <tile id="17">
+  <image width="32" height="64" source="druckschalter_kl.png"/>
+ </tile>
+ <tile id="18">
+  <image width="32" height="64" source="schaltpult_kl.png"/>
  </tile>
 </tileset>
