@@ -64,7 +64,7 @@
  <tile id="24">
   <image width="32" height="64" source="M200.png"/>
  </tile>
- <tile id="25">
+ <tile id="26">
   <image width="128" height="64" source="Information.png"/>
  </tile>
 </tileset>
