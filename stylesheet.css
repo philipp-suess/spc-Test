@@ -20,6 +20,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .box{  position: relative;
   width:100%;
   margin: auto;
+  margin-top: 100px;
   padding-top: 50px;
   padding-right: 50px;
   padding-bottom: 50px;
@@ -35,7 +36,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
   margin-right: 100px;
   margin-bottom: 25px;
   margin-left: 100px;
-  padding-top: 100px;
+  padding-top: 50px;
   padding-right: 50px;
   padding-bottom: 50px;
   padding-left: 50px;
