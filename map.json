@@ -587,7 +587,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild1.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild1.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -605,7 +605,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild2.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild2.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -623,7 +623,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild3.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild3.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -641,7 +641,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild4.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild4.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -659,7 +659,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild5.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild5.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -677,7 +677,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild6.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild6.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -695,7 +695,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild7.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild7.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -713,7 +713,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild8.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild8.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -731,7 +731,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild9.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild9.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -749,7 +749,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild10.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild10.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -767,7 +767,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild11.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild11.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -785,7 +785,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild12.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild12.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -803,7 +803,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild13.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild13.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -821,7 +821,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild14.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild14.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -839,7 +839,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild15.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild15.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -857,7 +857,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild16.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild16.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -875,7 +875,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild17.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild17.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -893,7 +893,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild18.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild18.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -911,7 +911,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild19.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild19.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -929,7 +929,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild20.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild20.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -947,7 +947,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild21.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild21.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -965,7 +965,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/gallerie\/bild22.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/bild22.html"
                 }],
          "type":"tilelayer",
          "visible":true,
