@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.4" tiledversion="1.4.3" name="eigen" tilewidth="128" tileheight="64" tilecount="23" columns="0">
+<tileset version="1.4" tiledversion="1.4.3" name="eigen" tilewidth="128" tileheight="64" tilecount="24" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="0">
   <image width="32" height="32" source="green.png"/>
@@ -72,5 +72,8 @@
  </tile>
  <tile id="29">
   <image width="32" height="32" source="location.png"/>
+ </tile>
+ <tile id="30">
+  <image width="32" height="64" source="gehaeuse_kl.png"/>
  </tile>
 </tileset>
