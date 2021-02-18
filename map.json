@@ -1544,7 +1544,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/philipp-suess.github.io\/world\/dogtags\/wegweiser.html"
+                 "value":"https:\/\/philipp-suess.github.io\/world\/wegweiser.html"
                 }],
          "type":"tilelayer",
          "visible":true,
